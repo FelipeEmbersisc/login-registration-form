@@ -1,6 +1,6 @@
 # Login & Register Form
 
-## HTML, CSS and JS estudy
+**HTML, CSS and JS estudy**
 
 This is a copy to study and learning css
 
