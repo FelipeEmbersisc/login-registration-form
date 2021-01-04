@@ -312,14 +312,14 @@ form.sign-up-form {
   }
 
   .panel p {
-    font-size: 0.7rem;
+    font-size: 0.9rem;
     padding: 0.5rem 0;
   }
 
   .btn.transparent {
     width: 110px;
     height: 35px;
-    font-size: 0.7rem;
+    font-size: 0.9rem;
   }
 
   .image {
@@ -360,6 +360,10 @@ form.sign-up-form {
 @media (max-width: 570px) {
   form {
     padding: 0 1.5rem;
+  }
+
+  .content p {
+    font-size: 0.9rem;
   }
 
   .image {
